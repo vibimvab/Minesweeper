@@ -1,0 +1,24 @@
+# ninja log v5
+5	1104	1682468129072097098	CMakeFiles/Minesweeper.dir/Board.cpp.o	f650da9ad48b7b9a
+5	786	1682468128739727543	CMakeFiles/Minesweeper.dir/Window.cpp.o	39af1fd9f2589fa6
+1063	1105	1698636029261076586	Minesweeper	325a861193a2abd6
+4	367	1682464451512305257	CMakeFiles/Minesweeper.dir/Tile.cpp.o	5c971f72a282a2cc
+0	93	1701209243336268693	build.ninja	680c2d172a50354a
+5	344	1682464451488875493	CMakeFiles/Minesweeper.dir/ImageTextures.cpp.o	7e97ab68059283c3
+5	489	1682451636518241727	CMakeFiles/Minesweeper.dir/Button.cpp.o	ef3d9fb1ee2c4145
+16	809	1698636028961727725	CMakeFiles/Minesweeper.dir/src/Tile.cpp.o	e835086062646710
+11	744	1698636028894145596	CMakeFiles/Minesweeper.dir/src/main.cpp.o	9b3311f0ebd4f8d9
+5	622	1682468128591709946	CMakeFiles/Minesweeper.dir/main.cpp.o	f863da7c5c40be24
+4	119	1681781961969524184	CMakeFiles/Minesweeper.dir/sin.cpp.o	3ff32a6c445d8675
+3	325	1681793666417075645	CMakeFiles/Minesweeper.dir/window.cpp.o	e1a5e7cd8a92e977
+21	709	1698636028860471860	CMakeFiles/Minesweeper.dir/src/Button.cpp.o	66707fceeeb83247
+18	721	1698636028873570778	CMakeFiles/Minesweeper.dir/src/ImageTextures.cpp.o	66dc7f844344a767
+11	884	1698636029037042326	CMakeFiles/Minesweeper.dir/src/Window.cpp.o	edb1c02a962b6933
+15	1063	1698636029216140356	CMakeFiles/Minesweeper.dir/src/Board.cpp.o	79a8de0ce0bc10cd
+10	3795	1713557650516598247	CMakeFiles/Minesweeper.dir/src/Button.cpp.o	66707fceeeb83247
+8	3820	1713557650542540482	CMakeFiles/Minesweeper.dir/src/main.cpp.o	9b3311f0ebd4f8d9
+9	3823	1713557650546963155	CMakeFiles/Minesweeper.dir/src/ImageTextures.cpp.o	66dc7f844344a767
+9	3835	1713557650560188428	CMakeFiles/Minesweeper.dir/src/Tile.cpp.o	e835086062646710
+9	3929	1713557650654062733	CMakeFiles/Minesweeper.dir/src/Window.cpp.o	edb1c02a962b6933
+9	4133	1713557650856217979	CMakeFiles/Minesweeper.dir/src/Board.cpp.o	79a8de0ce0bc10cd
+4133	5834	1713557652560523936	Minesweeper	2c3aa419ce3c85e6
